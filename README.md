@@ -1,2 +1,2 @@
 # C3p-
-C3p is an implementation to any actu Network Signals l  to Secure all Networks Worldwide.
+C3p is an implementation of a Network to Secure all Networks Worldwide.
